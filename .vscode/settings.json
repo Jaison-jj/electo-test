@@ -1,0 +1,40 @@
+{
+  "css.validate": false,
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "never"
+  },
+  "[css]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  // Tailwind CSS Autocomplete, add more if used in projects
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "classNames",
+    "containerClassName"
+  ],
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "cSpell.words": [
+    "Albers",
+    "Antd",
+    "clsx",
+    "datepicker",
+    "deeplink",
+    "disgree",
+    "Electo",
+    "grecaptcha",
+    "Jaison",
+    "lucide",
+    "nativelink",
+    "RECAPTCHA",
+    "renderlabel",
+    "sitekey",
+    "SLDLST",
+    "SLDUST",
+    "sonner",
+    "STATEFP",
+    "STUSPS",
+    "tanstack",
+    "unoptimized"
+  ]
+}
